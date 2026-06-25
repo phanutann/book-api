@@ -1,4 +1,2 @@
 resources:
-  - deployment.yaml
-  - service.yaml
-
+  - k8s.yaml
